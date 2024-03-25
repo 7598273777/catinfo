@@ -1,0 +1,20 @@
+.container {
+    color: rgba(0, 0, 0, 0.767);
+}
+
+.container div {
+font-size:xx-large;
+font-weight: bold;
+    text-decoration: dotted;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    text-transform:uppercase;
+    text-overflow: ellipsis;
+}
+
+body {
+    background-image: url(./cutee.jpg);
+    background-size:cover;
+    
+    }
